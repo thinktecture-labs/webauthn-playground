@@ -1,0 +1,13 @@
+# MacOS
+.DS_Store
+
+# Rider, etc.
+.idea
+
+# node
+node_modules
+
+# .NET
+bin
+obj
+*.user
